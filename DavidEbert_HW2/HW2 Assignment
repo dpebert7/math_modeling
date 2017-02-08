@@ -1,0 +1,9 @@
+For assignment 2, do the following:
+1)
+	-Take the GPU vector addition program from HW1 and make it work with multiple blocks.
+	-You will enter a number N which will be given to you to setup only just enough blocks to work with.
+	-Add the vectors as normal.
+2)
+	-Hard code the same program to have only 2 blocks of 1024 each.
+	-You will be given a number to enter which will be the number of elements in each array to add together.
+	-If you have a bigger N than 2048, add them piece by piece until finished.
